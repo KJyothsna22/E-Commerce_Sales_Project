@@ -22,3 +22,9 @@ The goal of this project is to:
 2. Top-performing products and categories
 3. Customer purchase behavior
 4. Region-wise sales distribution 
+
+## Sales Dashboard
+
+<img width="1058" height="461" alt="Image" src="https://github.com/user-attachments/assets/8a534c20-c9da-40e8-a441-af8626f0b69a" />
+
+
